@@ -1,4 +1,4 @@
-import { dataCounter } from "@/data";
+/* import { dataCounter } from "@/data";
 import CountUp from "react-countup";
 
 const CounterServices = () => {
@@ -20,4 +20,4 @@ const CounterServices = () => {
     );
 }
 
-export default CounterServices;
+export default CounterServices; */
