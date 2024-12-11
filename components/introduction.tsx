@@ -7,7 +7,7 @@ const Introduction = () => {
             <div className="z-20 grid items-center h-full p-6 py-20 md:py-0 md:grid-cols-2">
                 <Image src="/home-4.png" priority width="300" height="300" alt="Avatar" />
                 <div className="flex flex-col justify-center max-w-md">
-                    <h1 className="mb-5 text-2xl leading-tight text-center md:text-left md:text-4xl md:mb-10">If you can think it, <br />
+                    <h1 className="mb-5 text-2xl leading-tight text-center md:text-left md:text-4xl md:mb-10">Si puedes pensarlo, <br />
                         <TypeAnimation
                             sequence={[
                                 'you can develop it',
@@ -36,7 +36,7 @@ const Introduction = () => {
                         </a>
                         <a href="/contact"
                             className="px-3 py-2 my-5 transition-all border-2 cursor-pointer text-md w-fit text-secondary border-secondary rounded-xl hover:shadow-xl hover:shadow-secondary" >
-                            Contact me
+                            Contacta conmigo
                         </a>
                     </div>
                 </div>
