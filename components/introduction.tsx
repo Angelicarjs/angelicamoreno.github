@@ -9,16 +9,16 @@ const Introduction = () => {
                 <Image src="/home-4.png" priority width="300" height="300" alt="Avatar" />
                 </div>
                 <div className="flex flex-col justify-center max-w-md">
-                    <h1 className="mb-5 text-2xl leading-tight text-center md:text-left md:text-4xl md:mb-10">Si puedes pensarlo, <br />
+                    <h1 className="mb-5 text-2xl leading-tight text-center md:text-left md:text-4xl md:mb-10">If you can think it, <br />
                         <TypeAnimation
                             sequence={[
-                                'puedes programarlo',
+                                'you can develop it',
                                 1000,
-                                'puedes optimizarlo',
+                                'you can optimize it',
                                 1000,
-                                'puedes implementarlo',
+                                'you can implement it',
                                 1000,
-                                'puedes desarrollarlo',
+                                'you can program it',
                                 1000
                             ]}
                             wrapper="span"
