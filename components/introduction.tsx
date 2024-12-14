@@ -6,7 +6,7 @@ const Introduction = () => {
         <div className="z-20 w-full bg-darkBg/60">
             <div className="z-20 grid items-center h-full p-6 py-20 md:py-0 md:grid-cols-2">
                 <div className="place-self-center">
-                <Image src="/home-4.png" priority width="300" height="300" alt="Avatar" />
+                <Image src="/home-4.png" priority width="280" height="280" alt="Avatar" />
                 </div>
                 <div className="flex flex-col justify-center max-w-md">
                     <h1 className="mb-5 text-2xl leading-tight text-center md:text-left md:text-4xl md:mb-10">If you can think it, <br />
@@ -36,7 +36,7 @@ const Introduction = () => {
                         <a href="/projects" className="px-3 py-2 my-2 transition-all border-2 cursor-pointer text-md w-fit rounded-xl hover:shadow-xl hover:shadow-white/50">
                             Projects
                         </a>
-                        <a href="/contact"
+                        <a href="mailto:angelica_uno@hotmail.es"
                             className="px-3 py-2 my-5 transition-all border-2 cursor-pointer text-md w-fit text-secondary border-secondary rounded-xl hover:shadow-xl hover:shadow-secondary" >
                             Contact me
                         </a>

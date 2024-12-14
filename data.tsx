@@ -1,17 +1,22 @@
-import { Mail, BookText, CodeSquare, HomeIcon, UserRound, Linkedin, Rss, Crop, Pencil, Computer, Book, Rocket, Speech } from "lucide-react";
+import { Mail, BookText, CodeSquare, HomeIcon, UserRound, Linkedin, Github , Crop, Pencil, Computer, Book, Rocket, Speech } from "lucide-react";
 
 export const socialNetworks = [
 
     {
-        id: 2,
+        id: 1,
         logo: <Linkedin size={30} strokeWidth={1} />,
         src: "https://www.linkedin.com/in/angelica-m-moreno/",
     },
 
     {
-        id: 4,
+        id: 2,
         logo: <Mail size={30} strokeWidth={1} />,
         src: "mailto:angelica_uno@hotmail.es",
+    },
+    {
+        id: 3,
+        logo: <Github  size={30} strokeWidth={1} />,
+        src: "https://github.com/Angelicarjs",
     },
    
 ];
@@ -30,24 +35,24 @@ export const itemsNavbar = [
         icon: <UserRound size={25} color="#fff" strokeWidth={1} />,
         link: "/about-me",
     },
-    {
+/*     {
         id: 3,
         title: "Book",
         icon: <BookText size={25} color="#fff" strokeWidth={1} />,
         link: "/services",
-    },
+    }, */
     {
         id: 4,
         title: "Target",
-        icon: <CodeSquare size={25} color="#fff" strokeWidth={1} />,
+        icon: <BookText size={25} color="#fff" strokeWidth={1} />,
         link: "/portfolio",
     },
-    {
-        id: 5,
-        title: "Home",
-        icon: <Speech size={25} color="#fff" strokeWidth={1} />,
-        link: "/testimonials",
-    },
+    // {
+    //     id: 5,
+    //     title: "Home",
+    //     icon: <Speech size={25} color="#fff" strokeWidth={1} />,
+    //     link: "/testimonials",
+    // },
 ];
 
 export const dataAboutPage = [
