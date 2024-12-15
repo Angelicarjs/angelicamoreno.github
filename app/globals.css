@@ -29,3 +29,26 @@ main {
     text-wrap: balance;
   }
 }
+
+/* src/components/Footer.css */
+.footer {
+  background-color: #f8f9fa; /* Fondo del footer */
+  padding: 20px 0;
+  position: fixed; /* Fijar en la parte inferior */
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  border-top: 1px solid #ddd; /* Línea superior */
+}
+
+.logos-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px; /* Espacio entre los logos */
+}
+
+.footer-logo {
+  height: 40px; /* Ajusta el tamaño de los logos */
+  object-fit: contain;
+}
+
