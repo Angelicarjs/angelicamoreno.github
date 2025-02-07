@@ -5,6 +5,7 @@ import ContainerPage from "@/components/container-page";
 //import CounterServices from "@/components/counter-services";
 import TimeLine from "@/components/time-line";
 import TransitionPage from "@/components/transition-page";
+import Footer from "@/components/footer";
 
 const AboutMePage = () => {
     return (
@@ -20,8 +21,9 @@ const AboutMePage = () => {
                 </h1>
 
                 <TimeLine />
-
+            import Footer from "@/components/footer";
             </ContainerPage>
+            <Footer />
         </>
     );
 }

@@ -45,7 +45,7 @@ export const itemsNavbar = [
         id: 4,
         title: "Target",
         icon: <BookText size={25} color="#fff" strokeWidth={1} />,
-        link: "/services",
+        link: "/portfolio",
     },
     // {
     //     id: 5,
@@ -140,9 +140,9 @@ export const dataAboutPage = [
 
 export const serviceData = [
     {
-        icon: <Crop />,
-        title: "",
-        description: "",
+        icon: <Rocket />,
+        title: "CDE Master - Semester 1",
+        description: "Here you will find all the courses and projects of the first semester of my Master",
     },
     {
         icon: <Pencil />,
@@ -160,7 +160,7 @@ export const serviceData = [
         description: "",
     },
     {
-        icon: <Rocket />,
+        icon: <Crop />,
         title: "",
         description: "",
     },
@@ -169,60 +169,61 @@ export const serviceData = [
 export const dataPortfolio = [
     {
         id: 1,
-        title: "Web Pro",
-        image: "/image-1.jpg",
+        title: "Google Earth Engine",
+        image: "/image-1.png",
         urlGithub: "#!",
         urlDemo: "#!",
     },
     {
         id: 2,
-        title: "Desarrollo Web Ágil",
-        image: "/image-2.jpg",
+        title: "Radar",
+        image: "/image-2.png",
         urlGithub: "#!",
         urlDemo: "#!",
     },
     {
         id: 3,
-        title: "Estrategias Web",
-        image: "/image-3.jpg",
+        title: "Spatial Databases",
+        image: "/image-3.png",
         urlGithub: "#!",
         urlDemo: "#!",
     },
     {
         id: 4,
-        title: "Ideas Creativas",
-        image: "/image-4.jpg",
+        title: "Data Cubes",
+        image: "/image-4.png",
         urlGithub: "#!",
         urlDemo: "#!",
     },
     {
         id: 5,
-        title: "Webs Impactantes",
-        image: "/image-5.jpg",
+        title: "ArcGIS",
+        image: "/image-5.png",
         urlGithub: "#!",
         urlDemo: "#!",
     },
     {
         id: 6,
-        title: "Web Dinámica",
+        title: "R",
         image: "/image-6.jpg",
         urlGithub: "#!",
         urlDemo: "#!",
     },
     {
         id: 7,
-        title: "Dark Web ",
-        image: "/image-7.jpg",
+        title: "QGIS ",
+        image: "/image-7.png",
         urlGithub: "#!",
         urlDemo: "#!",
     },
+    /* 
     {
         id: 8,
         title: "E-commerce web",
         image: "/image-8.jpg",
         urlGithub: "#!",
         urlDemo: "#!",
-    }
+    } */
 ];
 
 export const dataTestimonials = [

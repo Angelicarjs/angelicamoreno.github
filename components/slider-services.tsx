@@ -36,7 +36,9 @@ const SliderServices = () => {
                         <div className="mb-4 text-4xl text-secondary">{item.icon}</div>
                         <div>
                             <h3 className="mb-4 text-lg">{item.title}</h3>
-                            <p className="text-sm">{item.description}</p>
+                            <a href="/portfolio">
+                                <p className="text-sm">{item.description}</p>
+                            </a>  
                         </div>
                     </div>
                 </SwiperSlide>

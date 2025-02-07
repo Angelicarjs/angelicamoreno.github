@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { TypeAnimation } from 'react-type-animation';
+import Footer from "@/components/footer";
 
 const Introduction = () => {
     return (
@@ -33,7 +34,7 @@ const Introduction = () => {
                     </p>
 
                     <div className="flex items-center justify-center gap-3 md:justify-start md:gap-10">
-                        <a href="/services" className="px-3 py-2 my-2 transition-all border-2 cursor-pointer text-md w-fit rounded-xl hover:shadow-xl hover:shadow-white/50">
+                        <a href="/portfolio" className="px-3 py-2 my-2 transition-all border-2 cursor-pointer text-md w-fit rounded-xl hover:shadow-xl hover:shadow-white/50">
                             Projects
                         </a>
                         <a href="mailto:angelica_uno@hotmail.es"
@@ -43,6 +44,7 @@ const Introduction = () => {
                     </div>
                 </div>
             </div>
+            <Footer />
         </div>
     );
 }

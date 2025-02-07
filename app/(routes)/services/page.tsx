@@ -9,10 +9,10 @@ const ServicesPage = () => {
             <TransitionPage />
             <div className="flex flex-col justify-center h-full">
                 <h1 className="text-2xl leading-tight text-center md:text-4xl md:mb-5">Lastest <span className="font-bold text-secondary">projects</span></h1>
-
                 {/* SLIDER */}
                 <div>
                     <SliderServices />
+                    
                 </div>
             </div>
         </ContainerPage>

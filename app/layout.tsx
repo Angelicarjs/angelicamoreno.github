@@ -29,7 +29,7 @@ export default function RootLayout({
         <Navbar />
         <Header />
         {children}
-        <Footer /> {/* Footer siempre visible */}
+        
       </body>
     </html>
   );
