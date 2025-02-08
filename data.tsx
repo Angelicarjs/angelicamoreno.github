@@ -107,6 +107,24 @@ export const dataAboutPage = [
     },
 ]
 
+export const dataEducation = [
+    
+    {
+        id: 1,
+        title: "University of Salzburg",
+        subtitle: "Copernicus Master in Digital Earth",
+        description: "",
+        date: "Sep 2024",
+    },
+    {
+        id: 2,
+        title: "University of los Andes",
+        subtitle: "Bachelor in Geosciences",
+        description: "",
+        date: "Sep 2019",
+    },
+]
+
 /* export const dataCounter = [
     {
         id: 0,
