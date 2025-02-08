@@ -21,7 +21,6 @@ const AboutMePage = () => {
                 </h1>
 
                 <TimeLine />
-            import Footer from "@/components/footer";
             </ContainerPage>
             <Footer />
         </>
