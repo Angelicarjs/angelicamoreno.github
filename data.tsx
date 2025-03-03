@@ -189,14 +189,14 @@ export const dataPortfolio = [
         id: 1,
         title: "Google Earth Engine",
         image: "/image-1.png",
-        urlGithub: "#!",
+        urlGithub: "/google_earth",
         urlDemo: "#!",
     },
     {
         id: 2,
         title: "Radar",
         image: "/image-2.png",
-        urlGithub: "#!",
+        urlGithub: "https://plusacat-my.sharepoint.com/:b:/g/personal/angelica_moreno-rojas_stud_plus_ac_at/EbK9uHMQLdJNq9ti859rzZoB7igFL1_ZgdNcKMhLYK8pAQ?e=Ek1sXN",
         urlDemo: "#!",
     },
     {
