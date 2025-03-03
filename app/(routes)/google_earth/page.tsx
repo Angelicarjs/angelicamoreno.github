@@ -34,12 +34,11 @@ const AboutMePage = () => {
                 <div className="max-w-md">
                     <h2 className="text-2xl font-bold mb-2 text-blue-200">Glacier Changes Analysis</h2>
                     <p className="text-gray-300">
-                    The following analysis has been done to analyze the changes of the Glaciar Perito Moreno in Argentina in a period of time of
-                    10 years using satellite imagery and remote sensing in Google Earth Engine (GEE). By processing the Sentinel-2 images from 2006 and 2016.
-                    I have calculated the snow index for 2006 and the true color image. 
+                    This analysis examines changes in the Perito Moreno Glacier in Argentina over a 10-year period using satellite imagery and remote sensing in Google Earth Engine (GEE). 
+                    Sentinel-2 images from 2006 and 2016 were processed to calculate the snow index for 2006 and generate a true-color image for 2016.
                     </p>
                     <p className="mt-2 text-gray-300">
-                    The results gives a representation of changes in the cover before and after, with a increased. Also, the index allows to see the direction of the flow of the ice in the area.
+                    The results provide a visual representation of changes in glacier cover over time, highlighting areas of increase and decrease. Additionally, the index helps illustrate the direction of ice flow in the region.
                     </p>
                 </div>
                 </div>
