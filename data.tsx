@@ -233,15 +233,14 @@ export const dataPortfolio = [
         image: "/image-7.png",
         urlGithub: "#!",
         urlDemo: "#!",
-    },
-    /* 
+    }, 
     {
         id: 8,
-        title: "E-commerce web",
-        image: "/image-8.jpg",
-        urlGithub: "#!",
+        title: "OBIA - Edge Based Segmentation",
+        image: "/image-8.png",
+        urlGithub: "https://colab.research.google.com/drive/1HPnQ2HKFKpsaAtZJbdO04NOHabVZHjdS?usp=sharing",
         urlDemo: "#!",
-    } */
+    }
 ];
 
 export const dataTestimonials = [
