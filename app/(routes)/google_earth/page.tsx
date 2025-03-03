@@ -32,15 +32,14 @@ const AboutMePage = () => {
 
                 {/* Texto descriptivo */}
                 <div className="max-w-md">
-                    <h2 className="text-2xl font-bold mb-2 text-blue-200">Wildfire Impact Analysis</h2>
+                    <h2 className="text-2xl font-bold mb-2 text-blue-200">Glacier Changes Analysis</h2>
                     <p className="text-gray-300">
-                    The following analysis has been done on the effects of these wildfires using satellite imagery and remote sensing 
-                    in Google Earth Engine (GEE). By processing the pre and post-fire Sentinel-2 images, I have computed the NDVI, 
-                    showing the vegetation health using Near-Infrared and Red bands.
+                    The following analysis has been done to analyze the changes of the Glaciar Perito Moreno in Argentina in a period of time of
+                    10 years using satellite imagery and remote sensing in Google Earth Engine (GEE). By processing the Sentinel-2 images from 2006 and 2016.
+                    I have calculated the snow index for 2006 and the true color image. 
                     </p>
                     <p className="mt-2 text-gray-300">
-                    The NDVI analysis gave me a representation of changes in vegetation cover before and after the fire, with noticeable 
-                    areas that experienced heavy reduction because of the intensity of burning.
+                    The results gives a representation of changes in the cover before and after, with a increased. Also, the index allows to see the direction of the flow of the ice in the area.
                     </p>
                 </div>
                 </div>
