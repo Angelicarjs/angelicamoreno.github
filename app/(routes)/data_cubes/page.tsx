@@ -34,13 +34,18 @@ const AboutMePage = () => {
                     A semantic data cube enhances this by adding metadata and relationships, 
                     allowing the request of data. In the Sen2Cube.at semantic EO data cube
                     it is possible to create and execute semantic models.
+                    <br />
+                    <br />
                     </p>
 
+                    <div className="flex justify-center">
                     <img 
-                    src="data_cube.png" 
-                    alt="Lakes Presence Model" 
-                    className="rounded-lg shadow-lg w-[600px] h-auto"
+                        src="data_cube.png" 
+                        alt="Lakes Presence Model" 
+                        className="rounded-lg shadow-lg w-[600px] h-auto"
                     />
+                    </div>
+
 
 
                     <p className="mt-4 text-gray-300">
@@ -54,9 +59,12 @@ const AboutMePage = () => {
                     the slope of less than 2 characteristics. This aspect is based on the topography 
                     using a digital elevation model and is valid for the entire time span 
                     (unlike satellite images, which are stacked upon each other).
+                    <br />
+                    <br />
                     </p>
 
-                     {/* Video */}
+                    <div className="flex justify-center">
+                    <br />
                      <video 
                         src="/data_cube.mp4" 
                         autoPlay 
@@ -64,11 +72,14 @@ const AboutMePage = () => {
                         muted 
                         className="rounded-lg shadow-lg w-[600px] h-auto"
                     />
+                    </div>
 
                     <p className="mt-4 text-gray-300">
+                    <br />
                     As a result, the model shows two layers: one with the count of pixels classified as lakes and another with the percentage of lakes over space. 
                     It also includes a time series of the percentage of pixels classified as lakes. 
                     The model was applied in four different regions in Austria to validate satisfactory results.
+                    <br />
                     </p>
 
                     <div className="h-32">
