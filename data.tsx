@@ -1,4 +1,4 @@
-import { Mail, BookText, CodeSquare, HomeIcon, UserRound, Linkedin, Github , Crop, Pencil, Computer, Book, Rocket, Speech } from "lucide-react";
+import { Mail, BookText, CodeSquare, HomeIcon, UserRound, Linkedin, Github, Crop, Pencil, Computer, Book, Rocket, Speech } from "lucide-react";
 
 export const socialNetworks = [
 
@@ -15,10 +15,10 @@ export const socialNetworks = [
     },
     {
         id: 3,
-        logo: <Github  size={30} strokeWidth={1} />,
+        logo: <Github size={30} strokeWidth={1} />,
         src: "https://github.com/Angelicarjs",
     },
-   
+
 ];
 
 
@@ -35,12 +35,12 @@ export const itemsNavbar = [
         icon: <UserRound size={25} color="#fff" strokeWidth={1} />,
         link: "/about-me",
     },
-/*     {
-        id: 3,
-        title: "Book",
-        icon: <BookText size={25} color="#fff" strokeWidth={1} />,
-        link: "/services",
-    }, */
+    /*     {
+            id: 3,
+            title: "Book",
+            icon: <BookText size={25} color="#fff" strokeWidth={1} />,
+            link: "/services",
+        }, */
     {
         id: 4,
         title: "Target",
@@ -108,7 +108,7 @@ export const dataAboutPage = [
 ]
 
 export const dataEducation = [
-    
+
     {
         id: 1,
         title: "University of Salzburg",
@@ -159,20 +159,20 @@ export const dataEducation = [
 export const serviceData = [
     {
         icon: <Rocket />,
-        title: "CDE Master - Semester 1",
-        description: "Here you will find all the courses and projects of the first semester of my Master",
+        title: "Script Tool Development",
+        description: "",
     },
     {
         icon: <Pencil />,
-        title: "",
+        title: "ArcPy Mapping Module",
         description: "",
     },
     {
         icon: <Computer />,
-        title: "",
+        title: "ESRI Certificates",
         description: "",
     },
-    {
+    /* {
         icon: <Book />,
         title: "",
         description: "",
@@ -181,7 +181,7 @@ export const serviceData = [
         icon: <Crop />,
         title: "",
         description: "",
-    },
+    }, */
 ];
 
 export const dataPortfolio = [
@@ -217,7 +217,7 @@ export const dataPortfolio = [
         id: 5,
         title: "ArcGIS",
         image: "/image-5.png",
-        urlGithub: "#!",
+        urlGithub: "/arcgis",
         urlDemo: "#!",
     },
     {
@@ -233,7 +233,7 @@ export const dataPortfolio = [
         image: "/image-7.png",
         urlGithub: "#!",
         urlDemo: "#!",
-    }, 
+    },
     {
         id: 8,
         title: "OBIA - Edge Based Segmentation",
