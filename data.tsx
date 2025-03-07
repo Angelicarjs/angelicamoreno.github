@@ -171,6 +171,7 @@ export const serviceData = [
         icon: <Computer />,
         title: "ESRI Certificates",
         description: "",
+        link: "https://www.linkedin.com/posts/angelica-m-moreno_esri-e-courses-activity-6935012734426107904-j861?utm_source=share&utm_medium=member_desktop&rcm=ACoAACXMAAkBqEdRWlaVszrPvLJENgUsWSDszYo"
     },
     /* {
         icon: <Book />,
