@@ -161,11 +161,13 @@ export const serviceData = [
         icon: <Rocket />,
         title: "Script Tool Development",
         description: "",
+        link:"#!"
     },
     {
         icon: <Pencil />,
         title: "ArcPy Mapping Module",
         description: "",
+        link:"#!"
     },
     {
         icon: <Computer />,
