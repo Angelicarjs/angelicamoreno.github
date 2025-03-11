@@ -234,7 +234,7 @@ export const dataPortfolio = [
         id: 7,
         title: "QGIS ",
         image: "/image-7.png",
-        urlGithub: "#!",
+        urlGithub: "/QGIS",
         urlDemo: "#!",
     },
     {
