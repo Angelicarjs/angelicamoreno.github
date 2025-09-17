@@ -251,6 +251,13 @@ export const dataPortfolio = [
         urlGithub: "https://plusacat-my.sharepoint.com/:b:/g/personal/angelica_moreno-rojas_stud_plus_ac_at/ERQX0zwaNzNItQ02-JMxzOcBEZyhUJeMz6V45hY3KPb2MQ?e=YFxhOD",
         urlDemo: "#!",
     },
+    {
+        id: 10,
+        title: "Summer School",
+        image: "/ai4eo.png",
+        urlGithub: "https://plusacat-my.sharepoint.com/:b:/g/personal/angelica_moreno-rojas_stud_plus_ac_at/Eegv0WGZL6lPkc8e6Yhx_-QBGUG_l8Hfpr7yvHBIFEJtww?e=8plgmS",
+        urlDemo: "#!",
+    }
 ];
 
 export const dataTestimonials = [
