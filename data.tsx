@@ -111,13 +111,20 @@ export const dataEducation = [
 
     {
         id: 1,
-        title: "University of Salzburg",
-        subtitle: "Copernicus Master in Digital Earth",
+        title: "University of Southern Brittany, France",
+        subtitle: "Copernicus Master in Digital Earth, Specialization in AI and data science",
         description: "",
-        date: "Sep 2024",
+        date: "Aug 2025 - Present",
     },
     {
         id: 2,
+        title: "University of Salzburg, Austria",
+        subtitle: "Copernicus Master in Digital Earth",
+        description: "",
+        date: "Sep 2024 - Aug 2025",
+    },
+    {
+        id: 3,
         title: "University of los Andes",
         subtitle: "Bachelor in Geosciences",
         description: "",
