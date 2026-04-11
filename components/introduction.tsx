@@ -30,7 +30,7 @@ const Introduction = () => {
                     </h1>
 
                     <p className="mx-auto mb-2 text-xl md:text-xl md:mx-0 md:mb-8">
-                    Geoscientist and Master's student in Digital Earth, specializing in AI and Data Science for Earth Observation. Currently working on tropical forest disturbance detection using foundation models and Sentinel-1/2 satellite imagery.
+                    Geoscientist and Master&apos;s student in Digital Earth, specializing in AI and Data Science for Earth Observation. Currently working on tropical forest disturbance detection using foundation models and Sentinel-1/2 satellite imagery.
                     </p>
 
                     <div className="flex items-center justify-center gap-3 md:justify-start md:gap-10">
