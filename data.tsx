@@ -112,8 +112,8 @@ export const dataEducation = [
     {
         id: 1,
         title: "University of Southern Brittany, France",
-        subtitle: "Copernicus Master in Digital Earth, Specialization in AI and data science",
-        description: "",
+        subtitle: "Copernicus Master in Digital Earth, Specialization in AI and Data Science for Earth Observation",
+        description: "Thesis: Intra-year detection of tropical forest disturbances using multimodal foundation model embeddings",
         date: "Present",
     },
     {
@@ -253,7 +253,7 @@ export const dataPortfolio = [
     },
     {
         id: 9,
-        title: "Intership",
+        title: "Internship",
         image: "/intership.png",
         urlGithub: "https://plusacat-my.sharepoint.com/:b:/g/personal/angelica_moreno-rojas_stud_plus_ac_at/ERQX0zwaNzNItQ02-JMxzOcBEZyhUJeMz6V45hY3KPb2MQ?e=YFxhOD",
         urlDemo: "#!",
@@ -263,6 +263,34 @@ export const dataPortfolio = [
         title: "Summer School",
         image: "/ai4eo.png",
         urlGithub: "https://plusacat-my.sharepoint.com/:b:/g/personal/angelica_moreno-rojas_stud_plus_ac_at/Eegv0WGZL6lPkc8e6Yhx_-QBGUG_l8Hfpr7yvHBIFEJtww?e=8plgmS",
+        urlDemo: "#!",
+    },
+    {
+        id: 11,
+        title: "Ship Detection from Aerial Images",
+        image: "/ship_detection.png",
+        urlGithub: "/ship_detection",
+        urlDemo: "#!",
+    },
+    {
+        id: 12,
+        title: "CROMA Land Cover Classification",
+        image: "/croma_classification.png",
+        urlGithub: "/croma_classification",
+        urlDemo: "#!",
+    },
+    {
+        id: 13,
+        title: "BigEarthNet - Distributed DL",
+        image: "/bigearthnet.png",
+        urlGithub: "/bigearthnet",
+        urlDemo: "#!",
+    },
+    {
+        id: 14,
+        title: "FRACTAL - Spark ML",
+        image: "/fractal.jpg",
+        urlGithub: "/fractal",
         urlDemo: "#!",
     }
 ];

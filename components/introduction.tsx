@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { TypeAnimation } from 'react-type-animation';
-import Footer from "@/components/footer";
+
 
 const Introduction = () => {
     return (
@@ -13,13 +13,13 @@ const Introduction = () => {
                     <h1 className="mb-5 text-2xl leading-tight text-center md:text-left md:text-4xl md:mb-10">If you can think it, <br />
                         <TypeAnimation
                             sequence={[
-                                'you can develop it',
+                                'you can map it',
                                 1000,
-                                'you can optimize it',
+                                'you can analyze it',
                                 1000,
-                                'you can implement it',
+                                'you can model it',
                                 1000,
-                                'you can program it',
+                                'you can detect it',
                                 1000
                             ]}
                             wrapper="span"
@@ -30,7 +30,7 @@ const Introduction = () => {
                     </h1>
 
                     <p className="mx-auto mb-2 text-xl md:text-xl md:mx-0 md:mb-8">
-                    Geoscientist and masters student in Digital Earth, specializing in Data Sciences and Artificial Intelligence. Passionate about uncovering insights from geographic data through advanced data analysis and AI-driven approaches.
+                    Geoscientist and Master's student in Digital Earth, specializing in AI and Data Science for Earth Observation. Currently working on tropical forest disturbance detection using foundation models and Sentinel-1/2 satellite imagery.
                     </p>
 
                     <div className="flex items-center justify-center gap-3 md:justify-start md:gap-10">
@@ -44,7 +44,6 @@ const Introduction = () => {
                     </div>
                 </div>
             </div>
-            <Footer />
         </div>
     );
 }

@@ -5,7 +5,6 @@ import ContainerPage from "@/components/container-page";
 //import CounterServices from "@/components/counter-services";
 import TimeLine from "@/components/time-line";
 import TransitionPage from "@/components/transition-page";
-import Footer from "@/components/footer";
 import { dataAboutPage, dataEducation } from "@/data";
 
 const AboutMePage = () => {
@@ -46,7 +45,7 @@ const AboutMePage = () => {
 
 
             </ContainerPage>
-            <Footer />
+
 
         </>
     );
