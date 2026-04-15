@@ -206,14 +206,14 @@ export const dataPortfolio = [
         id: 2,
         title: "Radar",
         image: "/image-2.png",
-        urlGithub: "https://plusacat-my.sharepoint.com/:b:/g/personal/angelica_moreno-rojas_stud_plus_ac_at/EbK9uHMQLdJNq9ti859rzZoBJPX-6lF3RPrzOEokbM5n_w?e=G3d4Q3",
+        urlGithub: "/docs/SalazarNicole_MorenoAngelica_Radar.pdf",
         urlDemo: "#!",
     },
     {
         id: 3,
         title: "Spatial Databases",
         image: "/image-3.png",
-        urlGithub: "https://plusacat-my.sharepoint.com/:b:/g/personal/angelica_moreno-rojas_stud_plus_ac_at/EbZ0lMa5FGdPlopvz7NptKsBMVN4GK7YpjHHc_pZCBRm8w?e=i60Ycd",
+        urlGithub: "/docs/Poster_Spatial_Thinking.pdf",
         urlDemo: "#!",
     },
     {
@@ -255,14 +255,14 @@ export const dataPortfolio = [
         id: 9,
         title: "Internship",
         image: "/intership.png",
-        urlGithub: "https://plusacat-my.sharepoint.com/:b:/g/personal/angelica_moreno-rojas_stud_plus_ac_at/ERQX0zwaNzNItQ02-JMxzOcBEZyhUJeMz6V45hY3KPb2MQ?e=YFxhOD",
+        urlGithub: "/internship",
         urlDemo: "#!",
     },
     {
         id: 10,
         title: "Summer School",
         image: "/ai4eo.png",
-        urlGithub: "https://plusacat-my.sharepoint.com/:b:/g/personal/angelica_moreno-rojas_stud_plus_ac_at/Eegv0WGZL6lPkc8e6Yhx_-QBGUG_l8Hfpr7yvHBIFEJtww?e=8plgmS",
+        urlGithub: "/docs/report_AI4EO-2_merged.pdf",
         urlDemo: "#!",
     },
     {

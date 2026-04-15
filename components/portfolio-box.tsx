@@ -23,6 +23,7 @@ const PortfolioBox = (props: PortfolioBoxProps) => {
             <h3 className="mb-4 text-xl">{title}</h3>
             <Link
             href={urlGithub}
+            target="_blank"
             >
             <Image
                 src={image}
