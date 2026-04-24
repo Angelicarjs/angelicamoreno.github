@@ -196,6 +196,13 @@ export const serviceData = [
 
 export const dataPortfolio = [
     {
+        id: 0,
+        title: "Master Thesis - Tropical Forest Disturbance Detection",
+        image: "/thesis.png",
+        urlGithub: "/docs/Thesis_CDE_presentation_AM.pdf",
+        urlDemo: "#!",
+    },
+    {
         id: 1,
         title: "Google Earth Engine",
         image: "/image-1.png",
